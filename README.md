@@ -2,6 +2,10 @@
 
 A portable, self-contained AI chatbot that runs from a USB drive on macOS. Plug in, double-click, chat — no installation required on the target machine.
 
+https://github.com/user-attachments/assets/311876fd-ead2-44b9-80ab-a5fb7b95511a
+
+[Watch on YouTube](https://youtu.be/z4MM0MGhCp4) (1:23)
+
 ## What it is
 
 - Local LLM inference from a USB stick — no internet, no cloud, no data leaves the machine
